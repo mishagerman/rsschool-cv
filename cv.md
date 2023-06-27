@@ -11,9 +11,12 @@ At the moment, a 2nd year student of BNTU, majoring in teacher-programmer, age 1
 ===
 ##Skills
 Git and GitHub
+===
 ##Code example:
 none
+===
 ##Courses:
 none
+===
 ##Languages
 beginner level
