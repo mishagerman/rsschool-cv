@@ -1,43 +1,44 @@
 # Misha German
 
-===
+---
 
 ## Junior Frontend Developer
+---
 
 ## Contact information
 
-### Phone: +375333741967
+__Phone: +375333741967__
 
-### E-mail: <mishagerman8@gmail.com>
+__E-mail: <mishagerman8@gmail.com>__
 
-### Telegram: @lilmilvert
+__Telegram: @lilmilvert__
 
-===
+---
 
 ## Briefly About Myself
 
-### At the moment, a 2nd year student of BNTU, majoring in teacher-programmer, age 19, began studying front development as a very interesting topic of website development and would like to try himself in this profession
+__At the moment, a 2nd year student of BNTU, majoring in teacher-programmer, age 19, began studying front development as a very interesting topic of website development and would like to try himself in this profession__
 
-===
+---
 
 ## Skills
 
-### Git and GitHub
+__Git and GitHub__
 
-===
+---
 
 ## Code example
 
-### none
+__none__
 
-===
+---
 
 ## Courses
 
-### none
+__none__
 
-===
+---
 
 ## Languages
 
-### beginner level
+__English: beginner level__
