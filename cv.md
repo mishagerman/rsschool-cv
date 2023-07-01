@@ -1,5 +1,5 @@
 # Misha German
-![Photo Misha](photo_2023-05-17_08-17-17.jpg)
+![Photo Misha](ger-1.png)
 
 ---
 
