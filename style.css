@@ -1,15 +1,74 @@
+.body {
+    background: #82074a;
+    padding: 0;
+    margin: 0;
+}
 .header {
-	top:20px;
+    background-color: #780746;
+	padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+.MyHead {
+    padding: 1px;
+}
+.nav {
+    text-align: center;
 }
 
+ul.hr li {
+    padding: 1rem;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    display: inline-block;
+    
+}
+.hr {
+    list-style: none;
+}
 .main {
-	padding-top:100px;
+    color: #fff;
+    background-color: #82074a;
+	padding-left: 1rem;
+    text-align: center;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+
 }
 
-.posLeft {
-	margin-left:-66%;
+.myInformation {
+    text-align: left;
+    margin: 0;
 }
-
-.posCenter {
-	margin-left:33%;
+.footer {
+    padding-top: 1rem;
+    margin-top: 1rem;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    color: #fff;
+    text-align: center;
+    background-color: #780746;
+}
+.MyGit a{
+    padding-bottom: 4rem;
+    background: #82074a;
+    color: #fff;
+    text-align: center;
+        ext-decoration: none;
+}
+.MyGit {
+    padding-bottom: 1rem;
+}
+a {
+    color: aquamarine;
+    text-decoration: none;
+}
+.CodeExample {
+    display: inline-block;
+    padding: 1rem;
+    color: black;
+    text-align: left;
+    background-color: gainsboro;
+}
+a:hover {
+    color: yellow;
 }
