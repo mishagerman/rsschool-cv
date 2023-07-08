@@ -43,17 +43,16 @@ ul.hr li {
 .footer {
     padding-top: 1rem;
     margin-top: 1rem;
+
     font-family: Geneva, Arial, Helvetica, sans-serif;
     color: #fff;
     text-align: center;
     background-color: #780746;
 }
 .MyGit a{
-    padding-bottom: 4rem;
-    background: #82074a;
     color: #fff;
     text-align: center;
-        ext-decoration: none;
+    text-decoration: none;
 }
 .MyGit {
     padding-bottom: 1rem;
